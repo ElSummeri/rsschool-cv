@@ -21,6 +21,8 @@
 
 ### Education
 
+- RS Schools Course "JavaScript Front-end (Stage 0)"
+
 ---
 
 ### Languages:
