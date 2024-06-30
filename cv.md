@@ -32,8 +32,25 @@
 
 ### Code exaple
 
+```javascript
+let smallestElement = Math.min(...inputArray);
+let largestElement = Math.max(...inputArray);
+inputArray = inputArray.reduce((newArray, currentElement) => {
+  if (currentElement !== smallestElement && currentElement !== largestElement) {
+    newArray.push(currentElement);
+  }
+  return newArray;
+}, []);
+
+console.log(inputArray);
+```
+
 ---
 
 ### Projects
 
 ---
+
+```
+
+```
