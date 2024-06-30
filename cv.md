@@ -13,6 +13,8 @@
 
 ### About me
 
+- Lorem ipsum
+
 ---
 
 ### Skills
